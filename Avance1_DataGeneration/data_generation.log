@@ -1,0 +1,88 @@
+2026-03-24 17:06:13,071 - ERROR -  Error al conectar: 'utf-8' codec can't decode byte 0xf3 in position 85: invalid continuation byte
+2026-03-24 17:06:13,071 - INFO - 
+ Conexión cerrada
+2026-03-24 17:07:25,543 - ERROR -  Error al conectar: 'utf-8' codec can't decode byte 0xf3 in position 85: invalid continuation byte
+2026-03-24 17:07:25,544 - INFO - 
+ Conexión cerrada
+2026-03-24 17:08:44,971 - INFO -  Conexión exitosa a PostgreSQL
+2026-03-24 17:08:44,971 - INFO - Generando 200 vehículos...
+2026-03-24 17:08:44,993 - INFO -  200 vehículos insertados
+2026-03-24 17:08:44,994 - INFO - Generando 400 conductores...
+2026-03-24 17:08:45,095 - INFO -  400 conductores insertados
+2026-03-24 17:08:45,095 - INFO - Generando 50 rutas...
+2026-03-24 17:08:45,103 - INFO -  50 rutas insertadas
+2026-03-24 17:08:45,103 - INFO - Generando 100000 viajes...
+2026-03-24 17:08:48,651 - INFO -   Progreso: 0/100000 trips insertados
+2026-03-24 17:08:49,254 - INFO -   Progreso: 10000/100000 trips insertados
+2026-03-24 17:08:49,899 - INFO -   Progreso: 20000/100000 trips insertados
+2026-03-24 17:08:50,553 - INFO -   Progreso: 30000/100000 trips insertados
+2026-03-24 17:08:51,169 - INFO -   Progreso: 40000/100000 trips insertados
+2026-03-24 17:08:51,759 - INFO -   Progreso: 50000/100000 trips insertados
+2026-03-24 17:08:52,370 - INFO -   Progreso: 60000/100000 trips insertados
+2026-03-24 17:08:52,973 - INFO -   Progreso: 70000/100000 trips insertados
+2026-03-24 17:08:53,574 - INFO -   Progreso: 80000/100000 trips insertados
+2026-03-24 17:08:54,179 - INFO -   Progreso: 90000/100000 trips insertados
+2026-03-24 17:08:54,747 - INFO -  100000 viajes insertados
+2026-03-24 17:08:54,757 - INFO - Generando 400000 entregas...
+2026-03-24 17:09:40,015 - ERROR -  Error durante la generación: no existe el esquema «np»
+LINE 5: ...olina Castro Cuesta', 'Calle 169Z # 40-23, Cali', np.float64...
+                                                             ^
+
+2026-03-24 17:09:40,098 - INFO - 
+ Conexión cerrada
+2026-03-24 17:17:56,100 - INFO -  Conexión exitosa a PostgreSQL
+2026-03-24 17:17:56,101 - INFO - Generando 200 vehículos...
+2026-03-24 17:17:56,120 - INFO -  200 vehículos insertados
+2026-03-24 17:17:56,120 - INFO - Generando 400 conductores...
+2026-03-24 17:17:56,183 - INFO -  400 conductores insertados
+2026-03-24 17:17:56,184 - INFO - Generando 50 rutas...
+2026-03-24 17:17:56,187 - INFO -  50 rutas insertadas
+2026-03-24 17:17:56,188 - INFO - Generando 100000 viajes...
+2026-03-24 17:17:59,463 - INFO -   Progreso: 0/100000 trips insertados
+2026-03-24 17:18:00,084 - INFO -   Progreso: 10000/100000 trips insertados
+2026-03-24 17:18:00,691 - INFO -   Progreso: 20000/100000 trips insertados
+2026-03-24 17:18:01,329 - INFO -   Progreso: 30000/100000 trips insertados
+2026-03-24 17:18:02,040 - INFO -   Progreso: 40000/100000 trips insertados
+2026-03-24 17:18:02,684 - INFO -   Progreso: 50000/100000 trips insertados
+2026-03-24 17:18:03,311 - INFO -   Progreso: 60000/100000 trips insertados
+2026-03-24 17:18:03,931 - INFO -   Progreso: 70000/100000 trips insertados
+2026-03-24 17:18:04,557 - INFO -   Progreso: 80000/100000 trips insertados
+2026-03-24 17:18:05,178 - INFO -   Progreso: 90000/100000 trips insertados
+2026-03-24 17:18:05,742 - INFO -  100000 viajes insertados
+2026-03-24 17:18:05,750 - INFO - Generando 400000 entregas...
+2026-03-24 17:18:53,524 - INFO -   Progreso: 0/400001 deliveries insertados
+2026-03-24 17:18:56,599 - INFO -   Progreso: 50000/400001 deliveries insertados
+2026-03-24 17:18:59,670 - INFO -   Progreso: 100000/400001 deliveries insertados
+2026-03-24 17:19:02,675 - INFO -   Progreso: 150000/400001 deliveries insertados
+2026-03-24 17:19:05,696 - INFO -   Progreso: 200000/400001 deliveries insertados
+2026-03-24 17:19:08,737 - INFO -   Progreso: 250000/400001 deliveries insertados
+2026-03-24 17:19:11,800 - INFO -   Progreso: 300000/400001 deliveries insertados
+2026-03-24 17:19:14,897 - INFO -   Progreso: 350000/400001 deliveries insertados
+2026-03-24 17:19:17,871 - INFO -   Progreso: 400000/400001 deliveries insertados
+2026-03-24 17:19:17,871 - INFO -  400001 entregas insertadas
+2026-03-24 17:19:17,953 - INFO - Generando 5000 registros de mantenimiento...
+2026-03-24 17:19:18,540 - INFO -  4920 mantenimientos insertados
+2026-03-24 17:19:18,541 - INFO - 
+ RESUMEN DE GENERACIÓN DE DATOS
+2026-03-24 17:19:18,541 - INFO - ==================================================
+2026-03-24 17:19:18,542 - INFO -   vehicles: 200 registros
+2026-03-24 17:19:18,544 - INFO -   drivers: 400 registros
+2026-03-24 17:19:18,545 - INFO -   routes: 48 registros
+2026-03-24 17:19:18,548 - INFO -   trips: 100,000 registros
+2026-03-24 17:19:18,572 - INFO -   deliveries: 400,001 registros
+2026-03-24 17:19:18,573 - INFO -   maintenance: 4,920 registros
+2026-03-24 17:19:18,573 - INFO - 
+  TOTAL: 505,569 registros
+2026-03-24 17:19:18,676 - INFO - 
+  Entregas por viaje: AVG=4.0, MIN=2, MAX=6
+2026-03-24 17:19:18,676 - INFO - 
+ VALIDANDO CALIDAD DE DATOS...
+2026-03-24 17:19:18,685 - INFO -    Integridad referencial - Trips sin vehículo válido: OK
+2026-03-24 17:19:18,818 - INFO -    Integridad referencial - Deliveries sin trip válido: OK
+2026-03-24 17:19:18,824 - INFO -    Consistencia temporal - Trips con arrival < departure: OK
+2026-03-24 17:19:18,843 - INFO -    Consistencia de peso - Trips excediendo capacidad: OK
+2026-03-24 17:19:18,844 - INFO -    Entregas sin tracking number: OK
+2026-03-24 17:19:18,845 - INFO - 
+ Resumen guardado en generation_summary.json
+2026-03-24 17:19:18,846 - INFO - 
+ Conexión cerrada
