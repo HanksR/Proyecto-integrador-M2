@@ -5,40 +5,7 @@ Incluye generación masiva de datos, análisis SQL, construcción de Data Wareho
 
 El proyecto está organizado por 4 avances progresivos, simulando un flujo real de ingeniería de datos end-to-end.
 
-__________________________________________________________________________________
-Estructura del Proyecto
-FleetLogix-DataEngineering/
-│
-├── Avance1_DataGeneration/
-│   ├── Data_generation.py
-│   ├── generation_summary.json
-│   ├── Validacion.sql
-│   └── README.md
-│
-├── Avance2_SQLAnalysis/
-│   ├── Queries_Analysis.sql
-│   ├── Indices.ipynb
-│   ├── Procesa.ipynb
-│   └── README.md
-│
-├── Avance3_DataWarehouse/
-│   ├── ETL_Pipeline.py
-│   ├── Snowflake_ETL.sql
-│   └── README.md
-│
-├── Avance4_CloudArchitecture/
-│   ├── AWS_Lambda.py
-│   ├── CloudArchitecture.py
-│   └── README.md
-│
-├── config/
-│   └── config.example.env
-│
-├── requirements.txt
-├── .gitignore
-└── README.md
-
-____________________________________________________________________________________
+_____________________________________________________________________________
 Arquitectura del Proyecto
 
 El flujo completo del sistema sigue estas etapas:
